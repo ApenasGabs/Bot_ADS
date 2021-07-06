@@ -1,0 +1,22 @@
+{
+  "name": "bot_ads",
+  "version": "1.0.0",
+  "description": "Para poder usar o bot sera necessario que voce tenha instalado o node caso nao tenha baixe aqui https://nodejs.org/en/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apenasgabs/Bot_ADS.git"
+  },
+  "author": "Gabriel Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apenasgabs/Bot_ADS/issues"
+  },
+  "homepage": "https://github.com/Apenasgabs/Bot_ADS#readme",
+  "dependencies": {
+    "venom-bot": "^2.0.14"
+  }
+}
